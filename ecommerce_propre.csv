@@ -1,0 +1,11 @@
+order_id,customer_name,email,product,quantity,price,order_date,status
+ORD001,Jean Dupont,jean.d@email.fr,Laptop,1,899.99,2024-01-15,Livré
+ORD002,marie martin,marie@email.fr,Smartphone,2,599.5,2024-01-16,En Cours
+ORD003,PIERRE BERNARD,pierre@email.fr,Laptop,1,899.99,2024-01-17,Livré
+ORD004,Sophie Dubois,sophie@email.fr,Tablet,1,349.0,2024-01-18,Livré
+ORD005,Luc Martin,luc@email.fr,Headphones,3,79.99,2024-01-19,Annulé
+ORD008,Marc Leroy,marc@email.fr,Monitor,1,299.99,2024-01-22,En Cours
+ORD009,Julie Moreau,julie@email.fr,Laptop,2,899.99,2024-01-23,Livré
+ORD010,Paul Durand,paul@email.fr,Smartphone,2,599.5,2024-01-24,En Cours
+ORD013,Léa Bernard,lea@email.fr,Tablet,1,349.0,2024-01-27,Livré
+ORD015,Noah Martin,noah@email.fr,Keyboard,1,45.0,2024-01-29,Livré

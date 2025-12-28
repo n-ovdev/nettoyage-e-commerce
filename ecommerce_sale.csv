@@ -1,0 +1,17 @@
+order_id,customer_name,email,product,quantity,price,order_date,status
+ORD001,Jean Dupont,jean.d@email.fr,Laptop,1,899.99,2024-01-15,Livré
+ORD002,marie martin,marie@email.fr,Smartphone,2,599.5,2024-01-16,En cours
+ORD003,PIERRE BERNARD,pierre@email.fr,laptop,1,899.99,2024-01-17,Livré
+ORD004,Sophie Dubois,sophie@email.fr,Tablet,1,349.0,2024-01-18,LIVRÉ
+ORD005,Luc Martin,luc@email.fr,Headphones,3,79.99,2024-01-19,Annulé
+ORD006,Anne Petit,,Mouse,5,15.5,2024-01-20,En cours
+ORD007,,paul@email.fr,Keyboard,1,45.0,2024-01-21,Livré
+ORD008,Marc Leroy,marc@email.fr,Monitor,1,299.99,2024-01-22,en cours
+ORD009,Julie Moreau,julie@email.fr,Laptop,2,899.99,2024-01-23,Livré
+ORD010,Paul Durand,paul@email.fr,Smartphone,2,599.5,2024-01-24,En cours
+ORD002,marie martin,marie@email.fr,Smartphone,2,599.5,2024-01-16,En cours
+ORD011,Emma Laurent,emma@email.fr,Mouse,0,15.5,2024-01-25,Livré
+ORD012,Hugo Simon,hugo@email.fr,laptop,1,-50.0,2024-01-26,Livré
+ORD013,Léa Bernard,lea@email.fr,Tablet,1,349.0,2024-01-27,Livré
+ORD014,,noah@email.fr,Headphones,2,79.99,2024-01-28,En cours
+ORD015,Noah Martin,noah@email.fr,Keyboard,1,45.0,2024-01-29,Livré
