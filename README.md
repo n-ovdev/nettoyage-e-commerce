@@ -91,10 +91,10 @@ jupyter notebook nettoyage_ecommerce.ipynb
 
 ## 📧 Contact
 
-**[Ton Nom]**
+**NOAH TONTOLO**
 - LinkedIn : Noah Tontolo
 - Email : noahtontolo@gmail.com
-- Portfolio : ComeUP, Malt? Fiver
+- Portfolio : ComeUP, Malt, Fiver
 
 ## 📝 Licence
 
