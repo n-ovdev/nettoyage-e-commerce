@@ -99,3 +99,7 @@ jupyter notebook nettoyage_ecommerce.ipynb
 ## 📝 Licence
 
 Ce projet est libre de droits et à but éducatif.
+
+## 🔗 Autres projets
+
+- [Analyse joueurs de football](https://github.com/[ton-username]/analyse-joueurs-football)
